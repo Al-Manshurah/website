@@ -2,8 +2,7 @@ baseURL = '/'
 languageCode = 'en'
 defaultContentLanguage = "en"
 hasCJKLanguage = true
-enableEmoji = true
-title = 'iTheme'
+title = 'Apple Newsroom'
 copyright = 'Floyd Li'
 theme = 'hugo-theme-itheme'
 paginate = 5
@@ -13,6 +12,12 @@ paginate = 5
   [[params.socialMedia]]
     name = 'Github'
     url = 'https://github.com/floyd-li'
+  [[params.socialMedia]]
+    name = 'Twitter'
+    url = 'https://twitter.com/some-one'
   [[params.blogroll]]
     name = '驭风笔记'
     url = 'https://yufengbiji.com/'
+  [[params.blogroll]]
+    name = 'Apple'
+    url = 'https://apple.com/'
